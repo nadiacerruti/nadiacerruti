@@ -1,6 +1,6 @@
 <h2 align="center"> Hi, I'm Nadia! </h2>
 
-<h4 align="center"> 🎓 Student at NUCBA | 💾 Fullstack MERN Web Developer - In progress </h4> 
+<h4 align="center"> 🎓 Student at <a href="https://nucba.com.ar/">NUCBA</a> | 💾 Fullstack MERN Web Developer - In progress </h4> 
     
 <div align="center">
     
@@ -11,8 +11,8 @@
 </br>
     
 <div align="center">
-  
-<img src="https://wakatime.com/share/@2be22f59-0570-4c77-99fd-dc0329a829f3/6f86eade-803b-4437-ab7f-b7ba779bdc1d.svg" height=400>
+    
+<img src="https://wakatime.com/badge/user/2be22f59-0570-4c77-99fd-dc0329a829f3/project/051261a6-a3f1-4ceb-91d7-12d99d688c64.svg?style=for-the-badge">
 
 </br> </br> 
   
