@@ -1,6 +1,6 @@
 <h2 align="center"> Hi, I'm Nadia! </h2>
 
-<h4 align="center"> 🎓 Student at <a href="https://nucba.com.ar/">HUMAI</a> | 💾 Data Scientist - In progress </h4> 
+<h4 align="center"> 🎓 Student at <a href=https://ihum.ai/">HUMAI</a> | 💾 Data Scientist - In progress </h4> 
     
 <div align="center">
     
