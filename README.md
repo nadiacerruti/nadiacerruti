@@ -1,6 +1,6 @@
 <h2 align="center"> Hi, I'm Nadia! </h2>
 
-<h4 align="center"> 🎓 Student at <a href="https://www.nucba.com.ar/" target="_blank">NUCBA</a> | 💾 Fullstack MERN Developer - In progress </h4> 
+<h4 align="center"> 🎓 Student at <a href="https://www.nucba.com.ar/" target="_blank">NUCBA</a> | 💾 Fullstack MERN Developer - In progress | Computer Systems Analyst - In progress </h4>
     
 <div align="center">
     
